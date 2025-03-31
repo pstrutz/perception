@@ -1,3 +1,3 @@
 # Perception
 
-A series of small programs used to complete assignments for my psychology class on perception.
+A small program used to complete an assignment for my psychology class on perception.
